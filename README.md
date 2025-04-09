@@ -1,30 +1,32 @@
 # 👋 Hi, I'm Uzoma Collins Arinze!
 
 ## 💼 About Me
-- 🧑‍💻 AI Content Creator & Python Educator @ **COLLINS AI**
-- 🎥 Sharing practical AI/Python tutorials on **YouTube**, **Facebook**, and **Instagram**
-- 🔬 Exploring **Deep Learning**, **Generative AI**, and **Prompt Engineering**
+- 🧑‍💻 **AI Content Creator & Python Educator** @ **COLLINS AI**
+- 🎥 Sharing practical **AI/Python tutorials** on **YouTube**, **Facebook**, and **Instagram**
+- 🔬 Exploring **Deep Learning**, **Generative AI**, **Prompt Engineering**, **Robotics**, and **Autonomous Systems**
 - 📘 Currently writing my first book: **"Python Unlocked: A Practical Guide for Beginners & Creators"**
-- 🌱 Continuously learning **MLOps**, **Transformers**, and **advanced AI tools**
+- 🌱 Continuously learning **MLOps**, **Transformers**, **content development**, and **Virtual Assistant (VA)** tools
 - 🎯 Mission: To **democratize AI knowledge** and make tech education accessible to everyone, especially in Africa
 
 ---
 
 ## 🎯 My 2025 Vision & Goals 🚀
 
-2025 is the year of **mastery, momentum, and meaningful impact**. Through my brand — **COLLINS AI** — I'm on a mission to educate, inspire, and equip the next generation of African tech creators with the tools and confidence to thrive in AI and Python.
-
----
-
 ### 🧠 1. Master Advanced AI Tools & Workflows  
 📚 This year, I’m committed to moving from strong fundamentals to **pro-level implementation** in AI. That includes:
 
 - 💡 Mastering **PyTorch** for deep learning model development  
 - 🤖 Building real-world projects using **Transformers** (like BERT, GPT, etc.)  
-- 🛠️ Gaining practical experience with **MLOps** – model deployment, CI/CD pipelines, and cloud scaling
+- 🛠️ Gaining practical experience with **MLOps** – model deployment, CI/CD pipelines, and cloud scaling  
+- 📊 Learning **TensorFlow** to expand my knowledge in **deep learning frameworks** and build scalable AI solutions  
+- 🤖 Exploring **Robotics** and **Autonomous Systems** for practical AI application in the physical world
 
 > 📸 *Visual:*  
-> ![PyTorch](https://upload.wikimedia.org/wikipedia/commons/9/96/Pytorch_logo.png)
+> ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/27/TensorFlow_logo.svg)  
+> ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
+> ![scikit-learn](https://img.shields.io/badge/-scikit_learn-777?style=flat&logo=scikit-learn)  
+> ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3D14?style=flat&logo=opencv)  
+> ![Hugging Face](https://img.shields.io/badge/-HuggingFace-FF00C6?style=flat&logo=huggingface)
 
 ---
 
@@ -32,7 +34,7 @@
 🎥 I’m scaling my content across platforms to reach **50,000+ learners** from Africa and beyond through:
 
 - 🎬 Weekly video tutorials & reels on **YouTube**, **Facebook**, and **Instagram**  
-- 🧠 Simplifying AI & Python for beginners and non-tech audiences  
+- 🧠 Simplifying **AI** & **Python** for beginners and non-tech audiences  
 - 🌍 Fostering a community of **curious, growth-driven learners**
 
 > 📸 *Visual:*  
@@ -102,6 +104,10 @@ Every goal above is connected to my broader mission:
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)  
 ![Keras](https://img.shields.io/badge/-Keras-333333?style=flat&logo=keras)  
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)  
+![scikit-learn](https://img.shields.io/badge/-scikit_learn-777?style=flat&logo=scikit-learn)  
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3D14?style=flat&logo=opencv)  
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FF00C6?style=flat&logo=huggingface)  
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux)  
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)  
 
@@ -119,8 +125,13 @@ Every goal above is connected to my broader mission:
 
 ---
 
+## 📚 Other Tools & Skills I'm Learning
+
+- 💻 **Content Development** – Enhancing my ability to create high-quality, educational content for various platforms  
+- 💡 **AI & Machine Learning Tools** – Learning **scikit-learn**, **OpenCV**, and **Hugging Face** libraries for practical, real-world AI applications
+- 🧑‍🏫 **Virtual Assistant (VA)** – Exploring tools like **Make.com**, **Zapier**, and **Airtable** for automating tasks and managing projects
+
 📩 Wanna collaborate, connect, or follow the journey?  
 👉 **[LinkedIn](https://linkedin.com/in/your-link)** | **[YouTube](https://youtube.com/@your-channel)** | **[Email Me](mailto:your@email.com)**
 
 💙 Thanks for stopping by. Let’s grow together!
-

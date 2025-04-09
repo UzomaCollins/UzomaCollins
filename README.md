@@ -5,7 +5,7 @@
 - 🎥 Sharing practical **AI/Python tutorials** on **YouTube**, **Facebook**, and **Instagram**
 - 🔬 Exploring **Deep Learning**, **Generative AI**, **Prompt Engineering**, **Robotics**, and **Autonomous Systems**
 - 📘 Currently writing my first book: **"Python Unlocked: A Practical Guide for Beginners & Creators"**
-- 🌱 Continuously learning **MLOps**, **Transformers**, **content development**, and **Virtual Assistant (VA)** tools
+- 🌱 Continuously learning **MLOps**, **Transformers**, **Content Development**, and **Virtual Assistant (VA)** tools
 - 🎯 Mission: To **democratize AI knowledge** and make tech education accessible to everyone, especially in Africa
 
 ---
@@ -22,7 +22,7 @@
 - 🤖 Exploring **Robotics** and **Autonomous Systems** for practical AI application in the physical world
 
 > 📸 *Visual:*  
-> ![TensorFlow](https://upload.wikimedia.org/wikipedia/commons/2/27/TensorFlow_logo.svg)  
+> ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
 > ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch)  
 > ![scikit-learn](https://img.shields.io/badge/-scikit_learn-777?style=flat&logo=scikit-learn)  
 > ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3D14?style=flat&logo=opencv)  
@@ -38,7 +38,8 @@
 - 🌍 Fostering a community of **curious, growth-driven learners**
 
 > 📸 *Visual:*  
-> ![YouTube Growth](https://img.shields.io/youtube/channel/subscribers/YOUR_CHANNEL_ID?style=social)
+> ![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CollinsAI)
+
 
 ---
 
@@ -114,14 +115,14 @@ Every goal above is connected to my broader mission:
 ---
 
 ## 📊 GitHub Stats  
-![Uzoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+[![Uzoma's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)](https://github.com/UzomaCollins)
 
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](your-link)  
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](your-link)  
-[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](your-link)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-uzoma-584b5374/)  
+[![YouTube](https://img.shields.io/badge/-YouTube-red?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@CollinsAI)  
+[![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://web.facebook.com/profile.php?id=61574789367813)
 
 ---
 
@@ -132,6 +133,6 @@ Every goal above is connected to my broader mission:
 - 🧑‍🏫 **Virtual Assistant (VA)** – Exploring tools like **Make.com**, **Zapier**, and **Airtable** for automating tasks and managing projects
 
 📩 Wanna collaborate, connect, or follow the journey?  
-👉 **[LinkedIn](https://linkedin.com/in/your-link)** | **[YouTube](https://youtube.com/@your-channel)** | **[Email Me](mailto:your@email.com)**
+👉 **[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/collins-uzoma-584b5374/)** | **[YouTube](https://www.youtube.com/@CollinsAI)** | **[Email Me](mailto:uzomacollins30@email.com)**
 
 💙 Thanks for stopping by. Let’s grow together!

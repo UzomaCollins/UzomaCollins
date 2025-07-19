@@ -1,5 +1,3 @@
----
-
 # 👋🏽 Hey there, I'm Uzoma Collins Arinze 💙
 
 ### 🎓 **AI Content Creator** | 📘 **Python Educator** | 🌍 **Tech Visionary from Africa**

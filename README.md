@@ -1,6 +1,6 @@
-# 👋🏽 Hey there, I'm **Uzoma Collins Arinze** 💙
+# 👋🏽 Hey there, I'm Uzoma Collins Arinze 💙
 
-🎓 AI Content Creator | 📘 Python Educator | 🌍 Tech Visionary from Africa
+### 🎓 AI Content Creator | 📘 Python Educator | 🌍 Tech Visionary from Africa
 🚀 Empowering the next generation of African innovators through code, content & creativity
 🎥 Teaching AI, Python & Automation with a passion for storytelling and real-world impact
 🛠️ Building a future where every dreamer can code, create, and conquer the tech world

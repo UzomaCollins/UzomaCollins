@@ -1,4 +1,4 @@
-# 👋🏽 **Hey there, I'm Uzoma Collins Arinze**💙
+<h1 align="center">💥👋🏽 <strong>HEY THERE, I'M UZOMA COLLINS ARINZE</strong> 💙🚀</h1>
 
 ### 🎓 **AI Content Creator** | 📘 **Python Educator** | 🌍 **Tech Visionary from Africa**
 

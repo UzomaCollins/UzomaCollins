@@ -1,4 +1,4 @@
-<h1 align="right">💥👋🏽 <strong>HEY THERE, I'M UZOMA COLLINS ARINZE</strong> 💙🚀</h1>
+<h1 align="left">💥👋🏽 <strong>HEY THERE, I'M UZOMA COLLINS ARINZE</strong> 💙🚀</h1>
 
 ### 🎓 **AI Content Creator** | 📘 **Python Educator** | 🌍 **Tech Visionary from Africa**
 

@@ -88,7 +88,7 @@ Teaching **hands-on AI & Python for beginners**, featuring:
 
 ## 🌐 Let’s Connect & Collaborate 🤝  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/collins-uzoma-584b5374)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/collins-uzoma-584b5374](https://www.linkedin.com/in/uzoma-collins-arinze-584b5374/))  
 [![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CollinsAI)  
 [![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:uzomacollins30@email.com)  
 

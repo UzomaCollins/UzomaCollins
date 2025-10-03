@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Enthusiast;Python+Educator;Generative+%26+Multimodal+AI+Explorer;Democratizing+AI+Knowledge+Across+Africa)](https://git.io/typing-svg)
+
 <h1 align="left">💥👋🏽 <strong>HEY THERE, I'M UZOMA COLLINS ARINZE</strong> 💙🚀</h1>
 
 ### 🤖 **AI Engineer** | 📘 **Python Educator** | 🌍 **Tech Visionary from Africa**
@@ -13,12 +15,16 @@ Founder of [**COLLINS AI**](https://www.youtube.com/@CollinsAI) — a platform m
 
 🌐 I create tutorials across **YouTube, Facebook, and Instagram** — breaking down AI/ML concepts into **simple, actionable lessons** for students, creators, and self-learners.  
 
-🔍 My areas of focus include:  
-- 🤖 **Deep Learning** – neural networks & real-world applications  
-- ✨ **Generative AI** – LLMs, ChatGPT, DALL·E, custom fine-tuning  
-- 🧠 **Prompt Engineering** – unlocking the full potential of large models  
-- ⚡ **AI Agents & Automation** – building intelligent, task-driven systems  
-- 🛠 **Python Programming** – from basics to advanced AI workflows  
+### 🔎 Passions & Focus Areas  
+- 🤖 Deep Learning – building and applying neural networks  
+- 👁️ Computer Vision – image recognition, object detection, video intelligence  
+- ✨ Generative AI – LLMs, diffusion models, and creative AI tools  
+- 🔀 Multimodal AI – fusing vision, language, and audio  
+- 🧠 NLP – from language modeling to conversational AI  
+- ⚡ Prompt Engineering – unlocking the power of LLMs  
+- 🤝 AI Agents & Automation – creating intelligent, task-driven systems  
+- 🚗 Robotics & Intelligent Systems – smarter automation through AI  
+
 
 📘 **Author of:** *“Python Unlocked: A Practical Guide for Beginners & Creators”* — helping learners start their Python journey with confidence.  
 

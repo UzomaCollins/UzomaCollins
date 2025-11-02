@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Collins Uzoma  
 
-🤖 **AI & Deep Learning Enthusiast** | 🐍 **Python Educator** | ✨ **Generative & Multimodal AI Explorer**  
+🤖 **MACHINE & DEEP LEARNING ENGINEER** | 🐍 **PYTHON EDUCATOR** | ✨ **GENERATIVE & MULTIMODAL AI EXPLORER**  
 🌍🚀 *“Democratizing AI knowledge across Africa and beyond — one tutorial, one student, one transformation at a time.”*  
 
 ![Profile Views](https://komarev.com/ghpvc/?username=UzomaCollins&style=for-the-badge&color=blue)
@@ -20,7 +20,7 @@
 
 ## 💼 About Me  
 
-Founder of [**COLLINS AI**](https://www.youtube.com/@CollinsAI) 🎥 — a platform making **AI and Python education accessible, practical, and inspiring**.  
+Founder of [**TechWithCollins**](https://www.youtube.com/@CollinsAI) 🎥 — a platform making **AI and Python education accessible, practical, and inspiring**.  
 
 I create **short-form and long-form tutorials** across YouTube, Facebook, and Instagram — breaking down AI/ML concepts into **simple, actionable lessons** for students, creators, and self-learners.  
 
@@ -31,7 +31,6 @@ I create **short-form and long-form tutorials** across YouTube, Facebook, and In
 - 🔀 Multimodal AI – fusing vision, language, and audio  
 - 🧠 NLP – from language modeling to conversational AI  
 - ⚡ Prompt Engineering – unlocking the power of LLMs  
-- 🤝 AI Agents & Automation – creating task-driven autonomous systems  
 - 🚗 Robotics & Intelligent Systems – smarter automation through AI  
 
 ---
@@ -95,7 +94,7 @@ I create **short-form and long-form tutorials** across YouTube, Facebook, and In
 - Advanced Deep Learning with PyTorch & TensorFlow  
 - Large Language Models (LLMs) & Prompt Engineering  
 - Multimodal AI for vision + language tasks  
-- AI-powered agents & automation tools  
+- Robotics Software & Autonomous Systems
 
 ## 🎯 Next Goals  
 - Launch open-source AI tutorials repo 📂  

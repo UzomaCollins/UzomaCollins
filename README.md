@@ -1,125 +1,141 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&duration=4000&color=00F7FF&vCenter=true&width=600&lines=AI+%26+Deep+Learning+Enthusiast;Python+Educator;Generative+%26+Multimodal+AI+Explorer;Democratizing+AI+Knowledge+Across+Africa)](https://git.io/typing-svg)
+---
 
-# 👋 Hi, I'm Collins Uzoma  
+# 🎯 **AI for Healthcare–Optimized Version**
 
-🤖 **MACHINE & DEEP LEARNING ENGINEER** | 🐍 **PYTHON EDUCATOR** | ✨ **GENERATIVE & MULTIMODAL AI EXPLORER**  
-🌍🚀 *“Democratizing AI knowledge across Africa and beyond — one tutorial, one student, one transformation at a time.”*  
-
-![Profile Views](https://komarev.com/ghpvc/?username=UzomaCollins&style=for-the-badge&color=blue)
+Replace your entire README with the version below:
 
 ---
 
-## 🌟 What I Do  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24\&duration=4000\&color=00F7FF\&vCenter=true\&width=600\&lines=AI+for+Healthcare+Innovator;Deep+Learning+%26+ML+Engineer;Python+Educator+%26+AI+Researcher;Building+Intelligent+Health+Systems+for+Africa)](https://git.io/typing-svg)
 
-- 🚀 **AI & Deep Learning Enthusiast** – building and sharing practical lessons to help others break into intelligent systems  
-- 🎥 **Python Educator** – simplifying complex tech with engaging, real-world tutorials  
-- ✨ **Generative & Multimodal AI Explorer** – experimenting with LLMs, vision-language models & creative AI tools  
-- 💡 **Bridge Builder** – connecting AI theory to hands-on applications  
+# 👋 Hi, I'm **Collins Uzoma**
 
----
+🤖 **Machine & Deep Learning Engineer** | 🧬 **AI for Healthcare Enthusiast** | 🐍 **Python Educator**
+🌍❤️ *“Transforming healthcare in Africa with intelligent, accessible, and ethical AI systems.”*
 
-## 💼 About Me  
-
-Founder of [**TechWithCollins**](https://www.youtube.com/@CollinsAI) 🎥 — a platform making **AI and Python education accessible, practical, and inspiring**.  
-
-I create **short-form and long-form tutorials** across YouTube, Facebook, and Instagram — breaking down AI/ML concepts into **simple, actionable lessons** for students, creators, and self-learners.  
-
-### 🔎 Passions & Focus Areas  
-- 🤖 Deep Learning – building and applying neural networks  
-- 👁️ Computer Vision – image recognition, object detection, video intelligence  
-- ✨ Generative AI – LLMs, diffusion models, and creative AI tools  
-- 🔀 Multimodal AI – fusing vision, language, and audio  
-- 🧠 NLP – from language modeling to conversational AI  
-- ⚡ Prompt Engineering – unlocking the power of LLMs  
-- 🚗 Robotics & Intelligent Systems – smarter automation through AI  
+![Profile Views](https://komarev.com/ghpvc/?username=UzomaCollins\&style=for-the-badge\&color=blue)
 
 ---
 
-## 📂 Featured Projects  
+## 🌟 What I Do
 
-🔹 [AI Basics with Python](https://github.com/UzomaCollins/ai-basics) – Beginner-friendly notebooks on ML & DL fundamentals  
-🔹 [Computer Vision Projects](https://github.com/UzomaCollins/computer-vision) – Object detection, face recognition, and image classification  
-🔹 [Generative AI Demos](https://github.com/UzomaCollins/generative-ai) – Experiments with GPT, DALL·E, and diffusion models  
-🔹 [Python Automation Tools](https://github.com/UzomaCollins/python-automation) – Scripts that simplify everyday tasks  
-
----
-
-## 🧰 Tools & Tech Stack  
-
-**Core Skills**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
-![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)  
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)  
-
-**Data & Visualization**  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)  
-![Seaborn](https://img.shields.io/badge/-Seaborn-3b4d61?style=for-the-badge&logoColor=white)  
-
-**Frameworks & Tools**  
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![Google Colab](https://img.shields.io/badge/-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white)  
+* 🧬 **AI for Healthcare** – applying ML, deep learning & multimodal AI to medical imaging, diagnostics & health analytics
+* 🎥 **Python & AI Educator** – simplifying complex healthcare–AI concepts for students, creators & self-learners
+* ⚕️ **Health Data Explorer** – working with medical datasets (X-ray, CT, symptoms, structured hospital data)
+* 🧠 **Generative & Multimodal AI Explorer** – LLMs, VLMs, and models for clinical text, radiology reports & decision support
+* 💡 **Bridge Builder** – connecting core AI theory to real biomedical applications for Africa
 
 ---
 
-## 🌟 Philosophy  
-*"AI isn’t just about machines getting smarter — it’s about people unlocking their potential through intelligent tools."*  
+## 💼 About Me
+
+Founder of **TechWithCollins**, a platform dedicated to making **AI, deep learning, and healthcare innovations accessible** to learners across Africa.
+
+I create **medical-focused AI tutorials**, explainers, and projects — from disease detection to medical chatbots to patient-data analytics.
 
 ---
 
-## 📊 GitHub Stats  
+## 🔎 Passions & Focus Areas
 
-[![Uzoma's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UzomaCollins&show_icons=true&theme=radical)](https://github.com/UzomaCollins)  
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UzomaCollins&layout=compact&theme=radical)](https://github.com/UzomaCollins)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=UzomaCollins&theme=radical)](https://git.io/streak-stats)  
+### 🧬 **AI for Healthcare**
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=UzomaCollins&theme=radical)  
+* Medical imaging (X-ray, MRI, CT)
+* Disease classification models
+* Medical report generation with LLMs
+* Symptom-based clinical decision support
+* Health risk prediction
+* AI for telemedicine & remote diagnosis
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=UzomaCollins&theme=radical&margin-w=10&margin-h=10&column=7)](https://github.com/ryo-ma/github-profile-trophy)  
+### 🔬 **Core AI Domains**
 
----
-
-## 📚 Currently Learning  
-- Advanced Deep Learning with PyTorch & TensorFlow  
-- Large Language Models (LLMs) & Prompt Engineering  
-- Multimodal AI for vision + language tasks  
-- Robotics Software & Autonomous Systems
-
-## 🎯 Next Goals  
-- Launch open-source AI tutorials repo 📂  
-- Collaborate with AI/ML communities 🤝  
-- Contribute to Hugging Face models 🧠  
-- Build AI-driven educational tools for Africa 🌍  
+* Deep Learning (CNNs, RNNs, Transformers)
+* Computer Vision
+* NLP for clinical text
+* Multimodal AI (Vision + Text)
+* LLMs & Generative AI
+* Edge AI for low-resource health environments
 
 ---
 
-## 🎯 Fun Fact  
-I’m currently building AI tutorials at **5AM daily with coffee ☕ + Python 🐍**  
+## 📂 Featured Projects (Healthcare-Tailored)
+
+🔹 **Medical Imaging with Deep Learning**
+CNN models for pneumonia detection, malaria classification, and retinal disease prediction
+
+🔹 **Clinical Notes NLP**
+Patient-summaries, symptom extraction, and diagnosis recommendation using LLMs
+
+🔹 **AI Triage Assistant**
+Simple rule-based + ML system for triage and early risk detection
+
+🔹 **Healthcare Data Analytics with Python**
+Exploring patient vitals, lab results, and hospital metrics
 
 ---
 
-## ☕ Support My Work  
-If you enjoy my tutorials and projects, consider supporting me to keep creating free AI resources:  
+## 🧰 Tools & Tech Stack
 
-[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/uzomacollins)  
+### **AI & Healthcare Tools**
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=for-the-badge\&logo=keras\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=for-the-badge\&logo=pytorch\&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-FFD21F?style=for-the-badge\&logo=huggingface\&logoColor=black)
+
+### **Data & Visualization**
+
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=for-the-badge\&logo=plotly\&logoColor=white)
+
+### **Engineering Tools**
+
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ---
 
-## 🌐 Let’s Connect & Collaborate 🤝  
+## 🌟 Philosophy
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uzoma-collins-arinze-584b5374/)  
-[![YouTube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CollinsAI)  
-[![Email](https://img.shields.io/badge/-Email-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:uzomacollins30@email.com)  
+*"AI for healthcare isn’t just technology — it’s a commitment to saving lives, improving diagnosis, and strengthening Africa’s medical systems.”*
+
+---
+
+## 📊 GitHub Stats
+
+(keep your existing stat images — they’re fine)
+
+---
+
+## 📚 Currently Learning
+
+* Medical imaging AI
+* Clinical NLP + LLMs
+* Biostatistics & healthcare analytics
+* Deployment of medical AI models
+* Multimodal models for radiology
+
+---
+
+## 🚀 Next Goals
+
+* Build an open-source **AI for Healthcare** tutorials repo
+* Collaborate with clinicians & global AI-health communities
+* Research in medical imaging at CMU-Africa
+* Develop AI tools suited for African hospitals & remote communities
+
+---
+
+## 🎯 Fun Fact
+
+I run AI experiments for medical imaging at **5AM**, with coffee in one hand and Python in the other ☕🐍
+
+---
+
+## 🌐 Let’s Connect & Collaborate
+
+(Keep your buttons here — already great)
 
 ---

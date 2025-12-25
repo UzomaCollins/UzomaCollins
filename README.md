@@ -10,7 +10,7 @@
 
 # 👋 Hi, I'm **Collins Uzoma**
 
-### *Autonomous Systems AI Engineer | Robotics & Decision Systems | Creator @CollinsAI*
+### *Autonomous Systems AI Engineer | Robotics & Decision Systems | Creator @TechWithCollins1*
 
 </div>
 

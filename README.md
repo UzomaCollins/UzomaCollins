@@ -1,7 +1,3 @@
-Here's your **far more exceptional**, ultra-premium, fully animated README with futuristic projects and a new content creation brand:
-
----
-
 <div align="center">
 
 <!-- Animated Glowing Badges with Pulse Effect -->
@@ -25,7 +21,7 @@ Here's your **far more exceptional**, ultra-premium, fully animated README with 
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Robot.png" alt="Robot" width="45" height="45" />
 </h1>
 
-### 🚀 **Robotics Software Engineer** • 🧠 **AI Architect** • 🤖 **Autonomous Systems Visionary**
+### 🚀 **Robotics Software Engineer** • 🧠 **AI Developer** • 🤖 **Autonomous Systems Visionary**
 
 **✨ Building the next generation of autonomous machines that perceive, reason, and transform the world. ✨**
 
@@ -42,7 +38,7 @@ Here's your **far more exceptional**, ultra-premium, fully animated README with 
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding Animation" />
 
-🚀 I'm a **Robotics Software Engineer** and **AI Architect** with an unshakable passion for building intelligent autonomous systems that seamlessly interact with the physical world. I don't just write code—I breathe life into machines.
+🚀 I'm a **Robotics Software & AI Engineer** with an unshakable passion for building intelligent autonomous systems that seamlessly interact with the physical world. I don't just write code—I breathe life into machines.
 
 🎯 **My Mission:** To bridge the gap between artificial intelligence and physical robotics, creating machines that don't just follow instructions but **understand, adapt, and innovate** in real-world environments.
 
@@ -171,7 +167,7 @@ Here's your **far more exceptional**, ultra-premium, fully animated README with 
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack & Tools I'm Building On
 
 ### 🤖 **Robotics & Simulation**
 ![ROS2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white&labelColor=0A0A0A)
@@ -302,7 +298,7 @@ I believe robotics is the ultimate convergence of **software engineering**, **ar
 | **Publish Research on AI for Robotics** | 📝 Writing |
 | **Contribute to Open Source Robotics** | 🌍 Active |
 | **Develop an Open-Source Robotics Framework** | ⚡ Ideation |
-| **Mentor Aspiring Robotics Engineers** | 🎓 Ongoing |
+| **Mentor Aspiring Robotics Engineers** | 🎓 Not Yet |
 
 </div>
 

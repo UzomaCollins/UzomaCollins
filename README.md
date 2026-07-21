@@ -23,4 +23,188 @@ src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&
 
 </p>
 
+## About Me
+
+I'm a Computer Engineering graduate passionate about building
+intelligent machines that can perceive, reason, and act autonomously.
+
+My current mission is to become a Robotics Software Engineer specializing in
+
+• Robotics Software
+• Autonomous Systems
+• Computer Vision
+• Artificial Intelligence
+• Motion Planning
+• Robot Perception
+
+I'm currently following a rigorous 8-month engineering roadmap,
+building real projects every week while documenting the journey publicly.
+
+## Currently Learning
+
+✓ ROS 2
+
+✓ Modern C++
+
+✓ Robot Kinematics
+
+✓ Gazebo
+
+✓ RViz2
+
+✓ Navigation2
+
+✓ SLAM
+
+✓ Sensor Fusion
+
+✓ Motion Planning
+
+✓ Reinforcement Learning
+
+✓ Embedded Robotics
+
+✓ Autonomous Navigation
+
+██████████░░░░░░░░░░░░░░░░░
+
+Month 1/8
+
+Foundations
+
+█████████████████░░░░░░░░
+
+Month 5/8
+
+2020
+
+Computer Engineering
+
+↓
+
+AI & Machine Learning
+
+↓
+
+Computer Vision
+
+↓
+
+Deep Learning
+
+↓
+
+NOW
+
+Robotics Software Engineering
+
+↓
+
+NEXT
+
+Autonomous Systems Engineer
+
+↓
+
+GOAL
+
+Robotics AI Engineer
+
+Python
+
+███████████████░░░ 75%
+
+C++
+
+█████░░░░░░░░░░░░░ 25%
+
+ROS2
+
+██░░░░░░░░░░░░░░░░ 10%
+
+Gazebo
+
+█░░░░░░░░░░░░░░░░░ 5%
+
+SLAM
+
+░░░░░░░░░░░░░░░░░░ 0%
+
+Navigation2
+
+░░░░░░░░░░░░░░░░░░ 0%
+
+Robot Kinematics Calculator
+
+ROS2 Publisher/Subscriber
+
+Differential Drive Robot
+
+Gazebo Simulations
+
+OpenCV Projects
+
+YOLO Projects
+
+SLAM Projects
+
+Navigation2
+
+Autonomous Mobile Robot
+
+Final Capstone
+
+Week 1
+
+✅ Linux
+
+✅ Git
+
+✅ Python
+
+⬜ ROS2
+
+⬜ Gazebo
+
+Week 8
+
+✅ ROS2
+
+✅ URDF
+
+✅ RViz
+
+✅ TF2
+
+⬜ Nav2
+
+GitHub Stats
+
+Contribution Graph
+
+Top Languages
+
+GitHub Streak
+
+Activity Graph
+
+LinkedIn
+
+Portfolio
+
+YouTube
+
+Email
+
+
+Visitors
+
+Followers
+
+Repositories
+
+Projects Completed
+
+
+
 

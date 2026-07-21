@@ -1,210 +1,242 @@
-<h1 align="center">
-Hi 👋, I'm Collins Uzoma
-</h1>
+<div align="center">
 
-<h3 align="center">
-Computer Engineer • Robotics Software Engineer in Training • AI & Autonomous Systems
-</h3>
+<img src="https://img.shields.io/badge/ROBOTICS%20SOFTWARE-0057FF?style=for-the-badge&logo=ros&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUTONOMOUS%20SYSTEMS-8A2BE2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ARTIFICIAL%20INTELLIGENCE-00C853?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/COMPUTER%20VISION-E91E63?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ROS2%20•%20SIMULATION-FF6F00?style=for-the-badge"/>
 
-<p align="center">
+<br><br>
 
-Building intelligent robots one project at a time.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=3500&color=00E5FF&center=true&vCenter=true&width=900&lines=Robotics+Software+Engineer;Artificial+Intelligence+Engineer;Autonomous+Systems+Developer;Computer+Vision+%7C+Machine+Learning;ROS2+%7C+Simulation+%7C+Perception;Building+Intelligent+Robots+for+Real+World+Problems)](https://git.io/typing-svg)
 
-Documenting an 8-month journey toward Robotics Software Engineering,
-ROS 2, Computer Vision, AI, and Autonomous Systems.
+# 👋 Hi, I'm Collins Uzoma
 
-</p>
+### Robotics Software Engineer • Artificial Intelligence Engineer • Autonomous Systems Developer
 
-<p align="center">
+**Building intelligent robots that perceive, reason, and act autonomously.**
 
-<img
-src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Robotics+Software+Engineer+in+Training;Computer+Engineer;Building+Autonomous+Systems;ROS+2+%7C+C%2B%2B+%7C+Python;Computer+Vision+%7C+Deep+Learning;Learning+in+Public+Every+Day"
- />
+</div>
 
-</p>
+## 🌍 About Me
 
-## About Me
+I'm a Robotics Software Engineer and AI Engineer passionate about building intelligent autonomous systems that interact safely with the physical world.
 
-I'm a Computer Engineering graduate passionate about building
-intelligent machines that can perceive, reason, and act autonomously.
+My interests span Robotics Software, Artificial Intelligence, Computer Vision, Machine Learning, Reinforcement Learning, and Autonomous Navigation.
 
-My current mission is to become a Robotics Software Engineer specializing in
+I enjoy designing software that enables robots to perceive their environment, make intelligent decisions, and execute reliable actions in real-world scenarios.
 
-• Robotics Software
-• Autonomous Systems
-• Computer Vision
-• Artificial Intelligence
-• Motion Planning
-• Robot Perception
+I'm particularly interested in applying robotics and AI to:
 
-I'm currently following a rigorous 8-month engineering roadmap,
-building real projects every week while documenting the journey publicly.
+- Autonomous Mobile Robots (AMRs)
+- Industrial Automation
+- Agriculture Robotics
+- Healthcare Robotics
+- Smart Manufacturing
+- Intelligent Transportation
+- Logistics & Warehouse Automation
+- Human-Robot Interaction
 
-## Currently Learning
+## 🚀 What I Build
 
-✓ ROS 2
+### 🤖 Robotics Software
 
-✓ Modern C++
+- Robot software architecture
+- ROS2 applications
+- Autonomous navigation
+- Robot perception pipelines
+- Motion planning
+- Localization & Mapping (SLAM)
+- Sensor Fusion
+- Robot simulation
 
-✓ Robot Kinematics
+### 🧠 Artificial Intelligence
 
-✓ Gazebo
+- Deep Learning
+- Computer Vision
+- Reinforcement Learning
+- Object Detection
+- Image Segmentation
+- Large Language Models
+- AI Agents
+- Edge AI
 
-✓ RViz2
+### 🔬 Research Interests
 
-✓ Navigation2
+- Autonomous Systems
+- Multi-Robot Systems
+- Swarm Robotics
+- Human-Robot Collaboration
+- Intelligent Decision Making
+- AI for Robotics
 
-✓ SLAM
+## 🚀 Featured Projects
 
-✓ Sensor Fusion
+🔹 Autonomous Mobile Robot Simulation
 
-✓ Motion Planning
+ROS2-powered autonomous robot capable of mapping environments, localization and navigation.
 
-✓ Reinforcement Learning
+---
 
-✓ Embedded Robotics
+🔹 Vision-Based Object Detection
 
-✓ Autonomous Navigation
+YOLO-powered perception pipeline for robotic applications.
 
-██████████░░░░░░░░░░░░░░░░░
+---
 
-Month 1/8
+🔹 Intelligent Warehouse Robot
 
-Foundations
+Simulation of autonomous inventory transportation using ROS2 and Gazebo.
 
-█████████████████░░░░░░░░
+---
 
-Month 5/8
+🔹 Agricultural Robotics
 
-2020
+Computer Vision system for crop monitoring and precision agriculture.
 
-Computer Engineering
+---
 
-↓
+🔹 Reinforcement Learning Navigation
 
-AI & Machine Learning
+Training autonomous agents to navigate unknown environments using Deep Reinforcement Learning.
 
-↓
+---
 
-Computer Vision
+🔹 Smart Traffic Intelligence
 
-↓
+AI-powered traffic optimization and autonomous signal control.
 
-Deep Learning
-
-↓
-
-NOW
-
-Robotics Software Engineering
-
-↓
-
-NEXT
-
-Autonomous Systems Engineer
-
-↓
-
-GOAL
-
-Robotics AI Engineer
-
-Python
-
-███████████████░░░ 75%
-
-C++
-
-█████░░░░░░░░░░░░░ 25%
 
 ROS2
-
-██░░░░░░░░░░░░░░░░ 10%
-
 Gazebo
+RViz
+MoveIt
+Webots
+CARLA
+Isaac Sim
+SLAM Toolbox
+Nav2
+TF2
+URDF
+Xacro
+OpenCV
+PCL
 
-█░░░░░░░░░░░░░░░░░ 5%
+PyTorch
+TensorFlow
+Keras
+ONNX
+OpenCV
+YOLO
+Hugging Face
+Scikit-Learn
+NumPy
+Pandas
+SciPy
+Matplotlib
+
+Python
+C++
+Bash
+Git
+Linux
+CMake
+YAML
+JSON
+
+DDS
+ROS2 Actions
+ROS2 Services
+ROS2 Topics
+Lifecycle Nodes
+Launch System
+Colcon
 
 SLAM
-
-░░░░░░░░░░░░░░░░░░ 0%
-
+Localization
+Path Planning
+Motion Planning
+Sensor Fusion
+AMCL
 Navigation2
+Occupancy Grids
 
-░░░░░░░░░░░░░░░░░░ 0%
+YOLO
+OpenCV
+Image Segmentation
+Object Detection
+Pose Estimation
+Optical Flow
+Stereo Vision
 
-Robot Kinematics Calculator
+Gazebo
+Webots
+Isaac Sim
+CARLA
+PyBullet
+MuJoCo
+Unity Robotics
 
-ROS2 Publisher/Subscriber
+Docker
+FastAPI
+Flask
+Streamlit
+AWS
+GCP
+GitHub Actions
 
-Differential Drive Robot
+## 💡 Engineering Philosophy
 
-Gazebo Simulations
+> "Great robotics software is not just about making robots move—it's about enabling machines to perceive, reason, adapt, and operate reliably in the real world."
 
-OpenCV Projects
+I believe the future of robotics lies at the intersection of AI, software engineering, and intelligent autonomous systems capable of solving meaningful problems in healthcare, agriculture, manufacturing, logistics, and beyond.
 
-YOLO Projects
+## 📖 Currently Exploring
 
-SLAM Projects
+- Advanced ROS2 Development
+- Navigation2 (Nav2)
+- SLAM Algorithms
+- Motion Planning
+- Reinforcement Learning for Robotics
+- Multi-Agent Systems
+- Robot Operating Systems
+- Robot Perception
+- Visual SLAM
+- Autonomous Navigation
+- Sensor Fusion
+- Edge AI for Robotics
+- NVIDIA Isaac Sim
 
-Navigation2
+## 📊 GitHub Analytics
 
-Autonomous Mobile Robot
+<p align="center">
 
-Final Capstone
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
 
-Week 1
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
 
-✅ Linux
+</p>
 
-✅ Git
+<p align="center">
 
-✅ Python
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
-⬜ ROS2
+</p>
 
-⬜ Gazebo
+<p align="center">
 
-Week 8
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blue"/>
 
-✅ ROS2
+</p>
 
-✅ URDF
+## 🏆 Current Goals
 
-✅ RViz
-
-✅ TF2
-
-⬜ Nav2
-
-GitHub Stats
-
-Contribution Graph
-
-Top Languages
-
-GitHub Streak
-
-Activity Graph
-
-LinkedIn
-
-Portfolio
-
-YouTube
-
-Email
-
-
-Visitors
-
-Followers
-
-Repositories
-
-Projects Completed
+- Contributing to Open Source Robotics
+- Building Production-Ready ROS2 Projects
+- Publishing Robotics Research
+- Developing Autonomous Navigation Systems
+- Advancing AI for Real-World Robotics
 
 
 
-
+Beyond engineering, I share my learning journey through **TechWithCollins1**, where I simplify AI, robotics, and software engineering for aspiring engineers across Africa.

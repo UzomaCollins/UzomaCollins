@@ -193,77 +193,24 @@ I want to build robots that can...
 
 ## 📊 GITHUB STATS
 
-<!-- DYNAMIC PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=collinsuzoma&label=👁️%20PROFILE%20VIEWS&color=FF6B6B&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/collinsuzoma?label=👥%20FOLLOWERS&style=for-the-badge&color=4ECDC4" />
-  <img src="https://img.shields.io/github/stars/collinsuzoma?label=⭐%20STARS&style=for-the-badge&color=FFE66D" />
-</p>
+<!-- DYNAMIC SNAKE ANIMATION -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/collinsuzoma/collinsuzoma/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/collinsuzoma/collinsuzoma/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/collinsuzoma/collinsuzoma/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 <br>
 
-<!-- DYNAMIC STATS CARDS -->
+<!-- DYNAMIC STATS -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=collinsuzoma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&ring_color=FF6B6B&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collinsuzoma&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&sideLabels=FF6B6B&sideNums=4ECDC4&currStreakLabel=FF6B6B" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=collinsuzoma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collinsuzoma&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B" width="48%" />
 </p>
 
-<br>
-
-<!-- DYNAMIC ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=collinsuzoma&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true&area_color=FF6B6B" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=collinsuzoma&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true" width="90%" />
 </p>
-
-<br>
-
-<!-- DYNAMIC LANGUAGE STATS & TROPHIES -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsuzoma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" width="45%" />
-  <img src="https://github-profile-trophy.vercel.app/?username=collinsuzoma&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="45%" />
-</p>
-
-<br>
-
-<!-- DYNAMIC WAKA TIME (if you use WakaTime) -->
-<p align="center">
-  <img src="https://wakatime.com/share/@collinsuzoma/7b3b3b3b-3b3b-3b3b-3b3b-3b3b3b3b3b3b.svg" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=collinsuzoma&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&layout=compact" width="45%" />
-</p>
-
-## 💬 LET'S CONNECT!
-
-I'm always excited to meet:
-
-<table>
-<tr>
-<td align="center">🤖<br><b>Robotics<br>Engineers</b></td>
-<td align="center">🧠<br><b>AI<br>Researchers</b></td>
-<td align="center">🚀<br><b>Autonomous<br>Developers</b></td>
-<td align="center">💻<br><b>Software<br>Engineers</b></td>
-<td align="center">🌍<br><b>Tech<br>Innovators</b></td>
-<td align="center">🎓<br><b>Students &<br>Learners</b></td>
-</tr>
-</table>
-
-Whether it's collaboration 🤝, research 📚, innovation 💡, mentorship 🌱, or simply exchanging ideas ☕—I'd love to connect!
-
-<p align="center">
-  <a href="https://youtube.com/@TechWithCollins1">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
 
 ## 📺 FOLLOW MY ROBOTICS JOURNEY
 

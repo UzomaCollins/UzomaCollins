@@ -189,32 +189,45 @@ I want to build robots that can...
 | 👁️ Advanced ROS 2 & Computer Vision Expertise | ████████░░░░░░░░░░░░ 40% | 🎯 Gaining Focus |
 | 🤝 Contribute to Open-Source Robotics | ████░░░░░░░░░░░░░░░░ 20% | 🌱 Building Foundation |
 | 📂 Build Industry-Level Portfolio | ██████░░░░░░░░░░░░░░ 30% | ✨ Crafting Projects |
----
 
-name: Generate Snake Animation
+## 📊 GITHUB STATS
 
-on:
-  schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
-  workflow_dispatch:
+<!-- DYNAMIC STATS CARDS - UPDATES AUTOMATICALLY -->
+<p align="center">
+  <a href="https://github.com/UzomaCollins">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UzomaCollins&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&count_private=true&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzomaCollins&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8"/>
+  </a>
+</p>
 
-jobs:
-  build:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
-      - uses: Platane/snk@master
-        id: snake-gif
-        with:
-          github_user_name: UzomaCollins
-          gif_out_path: dist/github-contribution-grid-snake.gif
-          svg_out_path: dist/github-contribution-grid-snake.svg
-      - uses: crazy-max/ghaction-github-pages@v2.1.3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+<!-- DYNAMIC STREAK STATS -->
+<p align="center">
+  <a href="https://github.com/UzomaCollins">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzomaCollins&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&sideLabels=FF6B6B&sideNums=c9d1d9&currStreakLabel=FF6B6B" alt="GitHub Streak"/>
+  </a>
+</p>
+
+<!-- DYNAMIC ACTIVITY GRAPH -->
+<p align="center">
+  <a href="https://github.com/UzomaCollins">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzomaCollins&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true&area_color=FF6B6B" width="90%"/>
+  </a>
+</p>
+
+<!-- VISITOR COUNTER (DYNAMIC) -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=UzomaCollins&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/UzomaCollins?label=Followers&style=for-the-badge&color=4ECDC4" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/UzomaCollins?label=Total%20Stars&style=for-the-badge&color=FFE66D" alt="GitHub Stars"/>
+</p>
+
+<!-- SNAKE ANIMATION (OPTIONAL - ADDS MOVEMENT) -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/UzomaCollins/UzomaCollins/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/UzomaCollins/UzomaCollins/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/UzomaCollins/UzomaCollins/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 📺 FOLLOW MY ROBOTICS JOURNEY
 
 🎥 **YouTube:** **TechWithCollins1** 🚀

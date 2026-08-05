@@ -192,55 +192,35 @@ I want to build robots that can...
 
 ## 📊 GITHUB STATS
 
-<!-- PRIMARY DYNAMIC STATS -->
+<!-- STATS CARDS - UPDATES AUTOMATICALLY -->
 <p align="center">
   <a href="https://github.com/UzomaCollins">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UzomaCollins&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&count_private=true&include_all_commits=true" onerror="this.style.display='none'"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzomaCollins&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" onerror="this.style.display='none'"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=UzomaCollins&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UzomaCollins&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" alt="Top Languages"/>
   </a>
 </p>
 
-<!-- FALLBACK STATS (SHOWS WHEN MAIN STATS FAIL) -->
+<!-- STREAK STATS -->
 <p align="center">
-  <i>⚠️ GitHub stats temporarily unavailable</i><br>
-  <img src="https://img.shields.io/github/followers/UzomaCollins?label=Followers&style=for-the-badge&color=FF6B6B" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/UzomaCollins?label=Stars&style=for-the-badge&color=4ECDC4" alt="Stars"/>
-  <img src="https://komarev.com/ghpvc/?username=UzomaCollins&label=Views&color=FF6B6B&style=for-the-badge" alt="Views"/>
+  <a href="https://github.com/UzomaCollins">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzomaCollins&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&sideLabels=FF6B6B&sideNums=c9d1d9&currStreakLabel=FF6B6B" alt="GitHub Streak"/>
+  </a>
 </p>
 
-<!-- RELIABLE STREAK STATS (USING DIFFERENT SERVICE) -->
+<!-- ACTIVITY GRAPH -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UzomaCollins&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&sideLabels=FF6B6B&sideNums=c9d1d9&currStreakLabel=FF6B6B" alt="GitHub Streak" onerror="this.style.display='none'"/>
+  <a href="https://github.com/UzomaCollins">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=UzomaCollins&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true&area_color=FF6B6B" width="90%" alt="Activity Graph"/>
+  </a>
 </p>
 
-<!-- ACTIVITY GRAPH (USING ALTERNATIVE SERVICE) -->
+<!-- LIVE BADGES - ALWAYS VISIBLE -->
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=UzomaCollins&theme=react-dark&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true" width="90%" onerror="this.style.display='none'"/>
+  <img src="https://komarev.com/ghpvc/?username=UzomaCollins&label=Profile%20Views&color=FF6B6B&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/UzomaCollins?label=Followers&style=for-the-badge&color=4ECDC4" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/UzomaCollins?label=Total%20Stars&style=for-the-badge&color=FFE66D" alt="Stars"/>
+  <img src="https://img.shields.io/github/last-commit/UzomaCollins/UzomaCollins?label=Last%20Updated&style=for-the-badge&color=A78BFA" alt="Last Updated"/>
 </p>
-
-## 📺 FOLLOW MY ROBOTICS JOURNEY
-
-🎥 **YouTube:** **TechWithCollins1** 🚀
-
-<table>
-<tr>
-<td align="center">✨ Robotics</td>
-<td align="center">✨ AI</td>
-<td align="center">✨ Autonomous Systems</td>
-</tr>
-<tr>
-<td align="center">✨ Programming</td>
-<td align="center">✨ Projects</td>
-<td align="center">✨ Tutorials</td>
-</tr>
-<tr>
-<td align="center">✨ Career Growth</td>
-<td align="center">✨ Tech Motivation</td>
-<td align="center">✨ Innovation</td>
-</tr>
-</table>
-
----
 
 ## 💭 ENGINEERING PHILOSOPHY
 

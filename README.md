@@ -193,15 +193,44 @@ I want to build robots that can...
 
 ## 📊 GITHUB STATS
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=collinsuzoma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collinsuzoma&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&sideLabels=FF6B6B" width="48%" />
-</p>
+<table align="center">
+<tr>
+<td align="center">
+  <h1>📦</h1>
+  <b>Repositories</b><br>
+  <font size="6">12</font>
+</td>
+<td align="center">
+  <h1>⭐</h1>
+  <b>Stars</b><br>
+  <font size="6">45</font>
+</td>
+<td align="center">
+  <h1>👥</h1>
+  <b>Followers</b><br>
+  <font size="6">8</font>
+</td>
+<td align="center">
+  <h1>📈</h1>
+  <b>Contributions</b><br>
+  <font size="6">124</font>
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=collinsuzoma&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true" width="90%" />
+  <img src="https://img.shields.io/badge/🔥_Current_Streak-5_days-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🏆_Top_Language-Python-4ECDC4?style=for-the-badge" />
 </p>
 
+<br>
+
+<p align="center">
+  <i>⚠️ Dynamic stats temporarily unavailable.<br>
+  📊 Check back soon for real-time metrics!</i>
+</p>
 ---
 
 ## 💬 LET'S CONNECT!

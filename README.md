@@ -169,23 +169,15 @@ I want to build robots that can...
 
 ## 📚 CURRENTLY LEARNING
 
-<p>
-  <img src="https://progress-bar.dev/85/?title=🐍%20Professional%20Python&color=3776AB&width=300" />
-  <br>
-  <img src="https://progress-bar.dev/75/?title=🏗️%20Advanced%20OOP&color=4ECDC4&width=300" />
-  <br>
-  <img src="https://progress-bar.dev/80/?title=🧹%20Clean%20Code&color=FFE66D&width=300" />
-  <br>
-  <img src="https://progress-bar.dev/70/?title=🎨%20Design%20Patterns&color=A78BFA&width=300" />
-  <br>
-  <img src="https://progress-bar.dev/65/?title=📐%20Robotics%20Math&color=FF6B6B&width=300" />
-  <br>
-  <img src="https://progress-bar.dev/60/?title=🗺️%20Navigation%20Algorithms&color=FF9F43&width=300" />
-  <br>
-  <img src="https://progress-bar.dev/55/?title=🧠%20Digital%20Twin&color=00D2D3&width=300" />
-</p>
-
----
+| Topic | Progress | Status |
+|-------|----------|--------|
+| 🐍 Professional Python | ████████████████████░ 85% | 🚀 Advanced |
+| 🏗️ Advanced OOP | ████████████████░░░░ 75% | 💪 Building |
+| 🧹 Clean Code | █████████████████░░░ 80% | ✨ Refining |
+| 🎨 Design Patterns | ██████████████░░░░░░ 70% | 🎯 Learning |
+| 📐 Robotics Math | █████████████░░░░░░░ 65% | 📖 Studying |
+| 🗺️ Navigation Algorithms | ████████████░░░░░░░░ 60% | 🧭 Exploring |
+| 🧠 Digital Twin | ███████████░░░░░░░░░ 55% | 🌐 Researching |
 
 ## 🎯 2026 BIG GOALS
 

@@ -193,45 +193,43 @@ I want to build robots that can...
 
 ## 📊 GITHUB STATS
 
-<table align="center">
-<tr>
-<td align="center">
-  <h1>📦</h1>
-  <b>Repositories</b><br>
-  <font size="6">12</font>
-</td>
-<td align="center">
-  <h1>⭐</h1>
-  <b>Stars</b><br>
-  <font size="6">45</font>
-</td>
-<td align="center">
-  <h1>👥</h1>
-  <b>Followers</b><br>
-  <font size="6">8</font>
-</td>
-<td align="center">
-  <h1>📈</h1>
-  <b>Contributions</b><br>
-  <font size="6">124</font>
-</td>
-</tr>
-</table>
-
-<br>
-
+<!-- DYNAMIC PROFILE VIEWS -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🔥_Current_Streak-5_days-FF6B6B?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🏆_Top_Language-Python-4ECDC4?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=collinsuzoma&label=👁️%20PROFILE%20VIEWS&color=FF6B6B&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/collinsuzoma?label=👥%20FOLLOWERS&style=for-the-badge&color=4ECDC4" />
+  <img src="https://img.shields.io/github/stars/collinsuzoma?label=⭐%20STARS&style=for-the-badge&color=FFE66D" />
 </p>
 
 <br>
 
+<!-- DYNAMIC STATS CARDS -->
 <p align="center">
-  <i>⚠️ Dynamic stats temporarily unavailable.<br>
-  📊 Check back soon for real-time metrics!</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=collinsuzoma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9&ring_color=FF6B6B&include_all_commits=true&count_private=true" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collinsuzoma&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B&currStreakNum=FF6B6B&sideLabels=FF6B6B&sideNums=4ECDC4&currStreakLabel=FF6B6B" width="49%" />
 </p>
----
+
+<br>
+
+<!-- DYNAMIC ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=collinsuzoma&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true&area_color=FF6B6B" width="95%" />
+</p>
+
+<br>
+
+<!-- DYNAMIC LANGUAGE STATS & TROPHIES -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=collinsuzoma&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&text_color=c9d1d9&langs_count=8" width="45%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=collinsuzoma&theme=radical&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" width="45%" />
+</p>
+
+<br>
+
+<!-- DYNAMIC WAKA TIME (if you use WakaTime) -->
+<p align="center">
+  <img src="https://wakatime.com/share/@collinsuzoma/7b3b3b3b-3b3b-3b3b-3b3b-3b3b3b3b3b3b.svg" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=collinsuzoma&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&layout=compact" width="45%" />
+</p>
 
 ## 💬 LET'S CONNECT!
 

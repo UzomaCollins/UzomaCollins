@@ -181,33 +181,14 @@ I want to build robots that can...
 
 ## 🎯 2026 BIG GOALS
 
-<table>
-<tr>
-<td>🤖 Master Robotics Software Engineering</td>
-<td><img src="https://progress-bar.dev/30/?color=FF6B6B&width=200" /></td>
-</tr>
-<tr>
-<td>🧭 Become Professional Autonomous Systems Engineer</td>
-<td><img src="https://progress-bar.dev/25/?color=4ECDC4&width=200" /></td>
-</tr>
-<tr>
-<td>🚀 Build 30+ Production-Ready Robotics Projects</td>
-<td><img src="https://progress-bar.dev/10/?color=FFE66D&width=200" /></td>
-</tr>
-<tr>
-<td>👁️ Advanced ROS 2 & Computer Vision Expertise</td>
-<td><img src="https://progress-bar.dev/35/?color=A78BFA&width=200" /></td>
-</tr>
-<tr>
-<td>🤝 Contribute to Open-Source Robotics</td>
-<td><img src="https://progress-bar.dev/20/?color=FF9F43&width=200" /></td>
-</tr>
-<tr>
-<td>📂 Build Industry-Level Portfolio</td>
-<td><img src="https://progress-bar.dev/40/?color=00D2D3&width=200" /></td>
-</tr>
-</table>
-
+| Goal | Progress | Status |
+|------|----------|--------|
+| 🤖 Master Robotics Software Engineering | ████████████░░░░░░░░ 60% | 🚀 Accelerating |
+| 🧭 Become Professional Autonomous Systems Engineer | ████████░░░░░░░░░░░░ 40% | 📖 Deep Learning |
+| 🚀 Build 30+ Production-Ready Robotics Projects | ██░░░░░░░░░░░░░░░░░░ 10% | 💪 Just Started |
+| 👁️ Advanced ROS 2 & Computer Vision Expertise | ████████░░░░░░░░░░░░ 40% | 🎯 Gaining Focus |
+| 🤝 Contribute to Open-Source Robotics | ████░░░░░░░░░░░░░░░░ 20% | 🌱 Building Foundation |
+| 📂 Build Industry-Level Portfolio | ██████░░░░░░░░░░░░░░ 30% | ✨ Crafting Projects |
 ---
 
 ## 📊 GITHUB STATS

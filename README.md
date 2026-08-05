@@ -18,14 +18,69 @@
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-😊👋 Hi there! I'm a **Computer Engineering Graduate** with an unstoppable passion for **🤖 Robotics, 🧠 Artificial Intelligence, and 🚀 Autonomous Systems**.
+<!-- HAND WAVE ANIMATION -->
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+  <span style="font-size: 32px; font-weight: 800;">HELLO WORLD! 👋</span>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" />
+</p>
 
-💡✨ I love designing and building intelligent machines that don't just automate tasks—they **👀 perceive, 🧠 reason, 📍 navigate, 🎯 decide, and 🤝 interact intelligently** with the real world.
+<br>
 
-🌍❤️ My dream is to contribute to the next generation of autonomous technologies that transform industries and improve lives across the globe.
+<!-- ABOUT ME - PROFESSIONAL LAYOUT -->
+<table>
+<tr>
+<td width="70%">
+
+### 👨‍💻 **ABOUT ME** 🚀
+
+😊👋 **Hi there!** I'm a **Computer Engineering Graduate** with an unstoppable passion for **🤖 Robotics**, **🧠 Artificial Intelligence**, and **🚀 Autonomous Systems**.
+
+💡✨ I love designing and building **intelligent machines** that don't just automate tasks—they **👀 perceive**, **🧠 reason**, **📍 navigate**, **🎯 decide**, and **🤝 interact intelligently** with the real world.
+
+🌍❤️ My dream is to contribute to the **next generation of autonomous technologies** that transform industries and improve lives across the globe.
+
+</td>
+<td width="30%" align="center">
+
+<!-- PROFESSIONAL CODING ANIMATION -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
+
+<br><br>
+
+<!-- SKILL BADGES -->
+<img src="https://img.shields.io/badge/Robotics-FF6B6B?style=flat-square&logo=robotframework&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/AI-4ECDC4?style=flat-square&logo=ai&logoColor=white" />
+<br>
+<img src="https://img.shields.io/badge/Autonomous_Systems-FFE66D?style=flat-square&logo=autopilot&logoColor=black" />
+
+</td>
+</tr>
+</table>
 
 ---
 
+<!-- BOLD QUOTE -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=800&height=40&lines=🚀+Building+the+future+of+intelligent+machines;🤖+One+line+of+code+at+a+time;💡+Engineering+autonomous+systems+that+transform+lives" alt="Mission" />
+</p>
+
+---
+
+<!-- BOLD STATS -->
+<p align="center">
+  <img src="https://img.shields.io/badge/🔥_Robotics_Expert-FF6B6B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠_AI_Innovator-4ECDC4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🚀_Autonomous_Architect-FFE66D?style=for-the-badge" />
+</p>
+
+---
+
+<!-- FOOTER WITH WAVE -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,100:4ECDC4&height=80&section=footer" />
+</p>
 ## 📚 CURRENT MISSION
 
 🎯 I'm currently on an **intensive 8-Month Robotics & Autonomous Systems Engineering Roadmap** 💪📖, where I'm systematically developing world-class skills in robotics software engineering.

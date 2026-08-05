@@ -191,27 +191,30 @@ I want to build robots that can...
 | 📂 Build Industry-Level Portfolio | ██████░░░░░░░░░░░░░░ 30% | ✨ Crafting Projects |
 ---
 
-## 📊 GITHUB STATS
+name: Generate Snake Animation
 
-<!-- DYNAMIC SNAKE ANIMATION -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/collinsuzoma/collinsuzoma/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/collinsuzoma/collinsuzoma/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/collinsuzoma/collinsuzoma/output/github-contribution-grid-snake-dark.svg">
-</picture>
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Runs daily at midnight
+  workflow_dispatch:
 
-<br>
-
-<!-- DYNAMIC STATS -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=collinsuzoma&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF6B6B&icon_color=4ECDC4&text_color=c9d1d9" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=collinsuzoma&theme=radical&hide_border=true&background=0D1117&ring=FF6B6B&fire=FF6B6B" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=collinsuzoma&bg_color=0D1117&color=FF6B6B&line=4ECDC4&point=FFE66D&area=true&hide_border=true" width="90%" />
-</p>
-
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
+        id: snake-gif
+        with:
+          github_user_name: UzomaCollins
+          gif_out_path: dist/github-contribution-grid-snake.gif
+          svg_out_path: dist/github-contribution-grid-snake.svg
+      - uses: crazy-max/ghaction-github-pages@v2.1.3
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 ## 📺 FOLLOW MY ROBOTICS JOURNEY
 
 🎥 **YouTube:** **TechWithCollins1** 🚀

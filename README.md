@@ -251,7 +251,7 @@ Every day, I strive to:
 
 ---
 
-## 🤖 **Robotics & Simulation**  
+## 🤖 **Robotics Software & Simulation**  
 ![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) 🚀  
 ![Navigation Stack](https://img.shields.io/badge/Navigation_Stack-1E90FF?style=for-the-badge) 🧭  
 ![SLAM](https://img.shields.io/badge/SLAM-8A2BE2?style=for-the-badge) 🗺️  
@@ -262,7 +262,7 @@ Every day, I strive to:
 
 ---
 
-## 🧠 **Artificial Intelligence & Data Science**  
+## 🧠 **Artificial Intelligence**  
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge) 🤖  
 ![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) 👁️  
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 📷  

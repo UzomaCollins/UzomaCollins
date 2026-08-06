@@ -186,7 +186,6 @@ Every day, I strive to:
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
 </p>
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🤖✨
 
 ## 💡🌍 My North Star ⭐🚀
 

@@ -1,17 +1,27 @@
-# Hi there, I'm <strong><font size="10">COLLINS UZOMA</font></strong>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Robotics+Software+Engineer;Autonomous+Systems+Engineer;AI+%26+Robotics+Innovator"/>
-
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🤖+Robotics+Software+Engineer;🚀+Autonomous+Systems+Engineer;🧠+AI+%26+Robotics+Innovator;🌍+Future+Robotics+Researcher"/>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+COLLINS+UZOMA" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=🤖+Robotics+Software+Engineer;🚀+Autonomous+Systems+Engineer;🧠+AI+%26+Robotics+Innovator;🌍+Future+Robotics+Researcher" alt="Role Typing" />
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
+
+<!-- BADGES -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=👀+Profile+Views&color=00C2FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=00C2FF&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&logo=github&color=FFD700&logoColor=white" />
+</p>
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+</p>
 ---
 
 ## 🚀 About Me

@@ -90,29 +90,36 @@ From **computer vision** and **robot perception** to **SLAM**, **motion planning
 
 ## ⚡ What I'm Passionate About
 
-🤖 Robotics Software Engineering
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
+</p>
 
-🚀 Autonomous Systems
+<table align="center">
+  <tr>
+    <td align="center" width="150"><b>🤖</b><br>Robotics Software Engineering</td>
+    <td align="center" width="150"><b>🚀</b><br>Autonomous Systems</td>
+    <td align="center" width="150"><b>🧠</b><br>Artificial Intelligence</td>
+    <td align="center" width="150"><b>👁️</b><br>Computer Vision</td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>🛰️</b><br>SLAM & Robot Navigation</td>
+    <td align="center" width="150"><b>📡</b><br>Sensor Fusion</td>
+    <td align="center" width="150"><b>🦾</b><br>ROS 2 Ecosystem</td>
+    <td align="center" width="150"><b>🎯</b><br>Motion Planning & Control</td>
+  </tr>
+  <tr>
+    <td align="center" width="150"><b>☁️</b><br>Robot Simulation<br><sub>Gazebo • Webots • Isaac Sim</sub></td>
+    <td align="center" width="150"><b>🔬</b><br>Robotics Research</td>
+    <td align="center" width="150"><b>🌍</b><br>Open Source</td>
+    <td align="center" width="150"></td>
+  </tr>
+</table>
 
-🧠 Artificial Intelligence
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
+</p>
 
-👁️ Computer Vision
 
-🛰️ SLAM & Robot Navigation
-
-📡 Sensor Fusion
-
-🦾 ROS 2 Ecosystem
-
-🎯 Motion Planning & Control
-
-☁️ Robot Simulation (Gazebo • Webots • Isaac Sim)
-
-🔬 Robotics Research
-
-🌍 Open Source
-
----
 
 <div align="center">
 

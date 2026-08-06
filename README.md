@@ -1,14 +1,4 @@
-<div align="center">
-
-<div align="center">
-
-# 👋 Hi there, I'm
-
-<h1>
-<b>𝐂𝐎𝐋𝐋𝐈𝐍𝐒 𝐔𝐙𝐎𝐌𝐀</b> 👋
-</h1>
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Robotics+Software+Engineer;Autonomous+Systems+Engineer;AI+%26+Robotics+Innovator"/>
+# Hi there, I'm <strong><font size="10">COLLINS UZOMA</font></strong> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Robotics+Software+Engineer;Autonomous+Systems+Engineer;AI+%26+Robotics+Innovator"/>
 
 </div> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
 

@@ -1,9 +1,9 @@
-# 🤖🚀 Robotics Software Engineer • 🧭 Autonomous Systems Architect • 🧠 AI Innovator • 🌍 Future Robotics Researcher
+# 🤖🚀 Robotics Software Engineer • 🧭 Autonomous Systems Engineer • 🧠 AI & Robotics Innovator • 🌍 Future Robotics & Autonomous System Researcher
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
+
 # 👋 Hi, I'm COLLINS UZOMA
 
-### 🚀 Computer Engineering Graduate | Robotics · AI · Autonomous Systems
+### 🚀 Computer Engineering Graduate | Robotics Software · AI · Autonomous Systems
 
 ---
 

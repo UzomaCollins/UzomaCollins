@@ -239,7 +239,7 @@ Every day, I strive to:
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=70%" />
 </p>
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 # 🛠️⚡ MY TECHNICAL ARSENAL 💻🚀
 

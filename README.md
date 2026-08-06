@@ -20,13 +20,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
-<!-- BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=👀+Profile+Views&color=00C2FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=00C2FF&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&logo=github&color=FFD700&logoColor=white" />
-</p>
-
 <!-- ANIMATED BANNER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer" width="100%" />

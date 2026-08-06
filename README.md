@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi there, I'm <strong><font size="7">COLLINS UZOMA</font></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+# Hi there, I'm <strong><font size="7">COLLINS UZOMA</font></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🤖+Robotics+Software+Engineer;🚀+Autonomous+Systems+Engineer;🧠+AI+%26+Robotics+Innovator;🌍+Future+Robotics+Researcher" />
 

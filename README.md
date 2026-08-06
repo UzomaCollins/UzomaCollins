@@ -31,23 +31,44 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer" width="100%" />
 </p>
----
+
 
 ## 🚀 About Me
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=4&width=100%" />
+</p>
+
 I'm a **Computer Engineering Graduate** passionate about building the next generation of **intelligent robots** and **autonomous systems**.
 
-I enjoy creating machines that go far beyond traditional automation—systems capable of:
+I thrive at the intersection of hardware and software — creating machines that go far beyond traditional automation. Systems that can:
 
-✨ **Perceiving** their environment  
-🧠 **Reasoning** intelligently  
-🛰️ **Navigating** complex environments  
-⚡ **Making autonomous decisions**  
-🤝 **Interacting** safely with humans and the world around them
+<p align="center">
+  <table align="center">
+    <tr>
+      <td align="center" width="120">👁️</td>
+      <td align="center" width="120">🧠</td>
+      <td align="center" width="120">🛰️</td>
+      <td align="center" width="120">⚡</td>
+      <td align="center" width="120">🤝</td>
+    </tr>
+    <tr>
+      <td align="center"><b>Perceive</b><br><sub>their environment</sub></td>
+      <td align="center"><b>Reason</b><br><sub>intelligently</sub></td>
+      <td align="center"><b>Navigate</b><br><sub>complex spaces</sub></td>
+      <td align="center"><b>Decide</b><br><sub>autonomously</sub></td>
+      <td align="center"><b>Interact</b><br><sub>safely with humans</sub></td>
+    </tr>
+  </table>
+</p>
 
-From **computer vision** and **robot perception** to **SLAM**, **motion planning**, **robotics software**, and **AI-driven decision-making**, I love transforming challenging ideas into real-world intelligent systems.
+From **computer vision** and **robot perception** to **SLAM**, **motion planning**, **robotics software**, and **AI-driven decision-making** — I love turning bold ideas into real-world intelligent systems.
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=100%" />
+</p>
+
+
 
 ## 🌍 My Mission
 

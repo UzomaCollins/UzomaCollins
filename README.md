@@ -1,9 +1,7 @@
-work with this, the animations are too much. Make it look professional: # ✨🌍🚀 HELLO WORLD! I'M **COLLINS UZOMA** 👋😄🌟
-
-## 🤖🚀 Robotics Software Engineer • 🧭 Autonomous Systems Architect • 🧠 AI Innovator • 🌍 Future Robotics Researcher
+# 🤖🚀 Robotics Software Engineer • 🧭 Autonomous Systems Architect • 🧠 AI Innovator • 🌍 Future Robotics Researcher
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
-# 👋 Hi, I'm [Your Name]
+# 👋 Hi, I'm COLLINS UZOMA
 
 ### 🚀 Computer Engineering Graduate | Robotics · AI · Autonomous Systems
 

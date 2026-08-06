@@ -1,10 +1,10 @@
-# 🤖🚀 Robotics Software Engineer • 🧭 Autonomous Systems Engineer • 🧠 AI & Robotics Innovator • 🌍 Future Robotics & Autonomous System Researcher
+# 👋 Hi, I'm Collins Uzoma
 
+## 🤖 Robotics Software Engineer • 🚀 Autonomous Systems Engineer • 🧠 AI & Robotics Innovator
 
-# 👋 Hi, I'm COLLINS UZOMA
+### 🎓 Computer Engineering Graduate
 
-### 🚀 Computer Engineering Graduate | Robotics Software · AI · Autonomous Systems
-
+Passionate about developing intelligent robots, autonomous systems, and AI-driven technologies that create meaningful real-world impact.
 ---
 
 I'm a **Computer Engineering Graduate** with a deep passion for building intelligent machines that go beyond simple automation — systems that **perceive**, **reason**, **navigate**, **decide**, and **interact** with the world around them.

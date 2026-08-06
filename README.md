@@ -188,20 +188,42 @@ Every day, I strive to:
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🤖✨
 
-# 💡🌍 MY NORTH STAR ⭐🚀
+## 💡🌍 My North Star ⭐🚀
 
-💙 My mission is to engineer **autonomous systems** that bridge the gap between **🌐 digital intelligence** and **🌍 physical action**.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
+</p>
 
-I want to build robots that can...
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Engineering+autonomous+systems+that+bridge;digital+intelligence+🌐+and+physical+action+🌍" />
+</p>
 
-👀 See
-🧠 Think
-📍 Navigate
-🤝 Interact
-⚡ Adapt
-🎯 Make intelligent decisions
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=1&width=60%" />
+</p>
 
-...all while operating safely and efficiently in complex real-world environments. 🤖🌎✨
+### 🎯 Building Robots That Can...
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><b>👀</b><br>See</td>
+    <td align="center" width="120"><b>🧠</b><br>Think</td>
+    <td align="center" width="120"><b>📍</b><br>Navigate</td>
+  </tr>
+  <tr>
+    <td align="center" width="120"><b>🤝</b><br>Interact</td>
+    <td align="center" width="120"><b>⚡</b><br>Adapt</td>
+    <td align="center" width="120"><b>🎯</b><br>Make Decisions</td>
+  </tr>
+</table>
+
+<p align="center">
+  <i>— all while operating safely and efficiently in complex real-world environments.</i>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
+</p>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 

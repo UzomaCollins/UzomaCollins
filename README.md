@@ -243,37 +243,47 @@ Every day, I strive to:
 
 # 🛠️⚡ MY TECHNICAL ARSENAL 💻🚀
 
-```
-💻 Programming
-🐍 Python (Advanced) 😎
-⚙️ C++
-🐧 Bash
+---
 
-🤖 Robotics
-🚀 ROS 2
-🧭 Navigation Stack
-🗺️ SLAM
-📍 Path Planning
-🎮 Gazebo
-🌐 Webots
-🚗 CARLA Simulator
+## 💻 **Programming Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Advanced** 🐍  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ⚙️  
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) 🐧  
 
-🧠 Artificial Intelligence
-🤖 Machine Learning
-👁️ Computer Vision
-📷 OpenCV
-🔥 PyTorch
-📊 NumPy
-🐼 Pandas
+---
 
-🛠️ Development Tools
-🐧 Ubuntu Linux
-📝 VS Code
-🐳 Docker
-🌳 Git
-🐙 GitHub
-⚡ GitHub Actions
-```
+## 🤖 **Robotics & Simulation**  
+![ROS 2](https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white) 🚀  
+![Navigation Stack](https://img.shields.io/badge/Navigation_Stack-1E90FF?style=for-the-badge) 🧭  
+![SLAM](https://img.shields.io/badge/SLAM-8A2BE2?style=for-the-badge) 🗺️  
+![Path Planning](https://img.shields.io/badge/Path_Planning-FF8C00?style=for-the-badge) 📍  
+![Gazebo](https://img.shields.io/badge/Gazebo-FFD700?style=for-the-badge) 🎮  
+![Webots](https://img.shields.io/badge/Webots-00BFFF?style=for-the-badge) 🌐  
+![CARLA](https://img.shields.io/badge/CARLA_Simulator-20B2AA?style=for-the-badge) 🚗  
+
+---
+
+## 🧠 **Artificial Intelligence & Data Science**  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge) 🤖  
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) 👁️  
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 📷  
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 🔥  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 📊  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 🐼  
+
+---
+
+## 🛠️ **Development Tools & Platforms**  
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) 🐧  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 📝  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) 🐳  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 🌳  
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 🐙  
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ⚡  
+
+---
+
+> *“Building the future, one commit at a time.”* 🚀
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🌟
 

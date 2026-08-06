@@ -1,14 +1,23 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=3500&pause=800&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+COLLINS+UZOMA" alt="Typing SVG" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=🤖+Robotics+Software+Engineer;🚀+Autonomous+Systems+Engineer;🧠+AI+%26+Robotics+Innovator;🌍+Future+Robotics+Researcher" alt="Role Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=9999&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+COLLINS+UZOMA" alt="Header" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
+
+<h2 align="center" style="color: #00C2FF; font-family: Poppins;">
+  🚀 Robotics Software Engineer &nbsp;|&nbsp; 🤖 Autonomous Systems &nbsp;|&nbsp; 🧠 AI Innovator
+</h2>
+
+<h3 align="center" style="color: #8899AA; font-weight: 400;">
+  Building intelligent machines that perceive, reason, and act in the real world
+</h3>
+
+<!-- DIVIDER -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 </p>
 
 <!-- BADGES -->
@@ -18,9 +27,9 @@
   <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&logo=github&color=FFD700&logoColor=white" />
 </p>
 
-<!-- DIVIDER -->
+<!-- ANIMATED BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer" width="100%" />
 </p>
 ---
 

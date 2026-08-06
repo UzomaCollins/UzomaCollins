@@ -191,40 +191,55 @@ Every day, I strive to:
 ## 💡🌍 My North Star ⭐🚀
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=70%" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&multiline=true&width=900&height=70&lines=Engineering+autonomous+systems+that+bridge;digital+intelligence+🌐+and+physical+action+🌍" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=1&width=60%" />
-</p>
-
-### 🎯 Building Robots That Can...
 
 <table align="center">
   <tr>
-    <td align="center" width="120"><b>👀</b><br>See</td>
-    <td align="center" width="120"><b>🧠</b><br>Think</td>
-    <td align="center" width="120"><b>📍</b><br>Navigate</td>
-  </tr>
-  <tr>
-    <td align="center" width="120"><b>🤝</b><br>Interact</td>
-    <td align="center" width="120"><b>⚡</b><br>Adapt</td>
-    <td align="center" width="120"><b>🎯</b><br>Make Decisions</td>
+    <td valign="top" width="50%">
+      <h3 align="center">🌐 Vision</h3>
+      <p align="center">
+        <i>Engineering autonomous systems that bridge<br>
+        <b>digital intelligence</b> and <b>physical action</b></i>
+      </p>
+      <br>
+      <h3 align="center">🌍 Impact</h3>
+      <p align="center">
+        <i>Building robots that operate safely and efficiently<br>
+        in <b>complex real-world environments</b></i>
+      </p>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">🎯 Capabilities</h3>
+      <table align="center">
+        <tr>
+          <td align="center" width="60"><b>👀</b></td>
+          <td align="center" width="60"><b>🧠</b></td>
+          <td align="center" width="60"><b>📍</b></td>
+        </tr>
+        <tr>
+          <td align="center"><sub>See</sub></td>
+          <td align="center"><sub>Think</sub></td>
+          <td align="center"><sub>Navigate</sub></td>
+        </tr>
+        <tr>
+          <td align="center"><b>🤝</b></td>
+          <td align="center"><b>⚡</b></td>
+          <td align="center"><b>🎯</b></td>
+        </tr>
+        <tr>
+          <td align="center"><sub>Interact</sub></td>
+          <td align="center"><sub>Adapt</sub></td>
+          <td align="center"><sub>Decide</sub></td>
+        </tr>
+      </table>
+    </td>
   </tr>
 </table>
 
 <p align="center">
-  <i>— all while operating safely and efficiently in complex real-world environments.</i>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=70%" />
 </p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
-</p>
-
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 # 🛠️⚡ MY TECHNICAL ARSENAL 💻🚀

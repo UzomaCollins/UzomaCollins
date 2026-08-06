@@ -1,21 +1,76 @@
-# 👋 Hi, I'm Collins Uzoma
+<div align="center">
 
-## 🤖 Robotics Software Engineer • 🚀 Autonomous Systems Engineer • 🧠 AI & Robotics Innovator
+# 👋 Hi there, I'm <strong><font size="7">COLLINS UZOMA</font></strong> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 
-### 🎓 Computer Engineering Graduate
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🤖+Robotics+Software+Engineer;🚀+Autonomous+Systems+Engineer;🧠+AI+%26+Robotics+Innovator;🌍+Future+Robotics+Researcher" />
 
-Passionate about developing intelligent robots, autonomous systems, and AI-driven technologies that create meaningful real-world impact.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow" />
+</p>
+
+</div>
+
 ---
 
-I'm a **Computer Engineering Graduate** with a deep passion for building intelligent machines that go beyond simple automation — systems that **perceive**, **reason**, **navigate**, **decide**, and **interact** with the world around them.
+## 🚀 About Me
 
-From perception pipelines to decision-making algorithms, I thrive at the intersection of hardware and software, turning complex problems into real-world autonomous solutions.
+I'm a **Computer Engineering Graduate** passionate about building the next generation of **intelligent robots** and **autonomous systems**.
 
-🌍 My mission: to help shape the next generation of autonomous technologies that drive meaningful change across industries and improve lives globally.
+I enjoy creating machines that go far beyond traditional automation—systems capable of:
+
+✨ **Perceiving** their environment  
+🧠 **Reasoning** intelligently  
+🛰️ **Navigating** complex environments  
+⚡ **Making autonomous decisions**  
+🤝 **Interacting** safely with humans and the world around them
+
+From **computer vision** and **robot perception** to **SLAM**, **motion planning**, **robotics software**, and **AI-driven decision-making**, I love transforming challenging ideas into real-world intelligent systems.
 
 ---
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🚀
+## 🌍 My Mission
+
+> **To build intelligent robots and autonomous systems that solve real-world problems, advance humanity, and shape the future of robotics through innovation, research, and impactful technology.**
+
+---
+
+## ⚡ What I'm Passionate About
+
+🤖 Robotics Software Engineering
+
+🚀 Autonomous Systems
+
+🧠 Artificial Intelligence
+
+👁️ Computer Vision
+
+🛰️ SLAM & Robot Navigation
+
+📡 Sensor Fusion
+
+🦾 ROS 2 Ecosystem
+
+🎯 Motion Planning & Control
+
+☁️ Robot Simulation (Gazebo • Webots • Isaac Sim)
+
+🔬 Robotics Research
+
+🌍 Open Source
+
+---
+
+<div align="center">
+
+### 💡 *"The future belongs to intelligent machines that can perceive, learn, reason, and act autonomously."*
+
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
+
+</div>
+
+---
 
 ## 📚🔥 CURRENT MISSION 🚀
 

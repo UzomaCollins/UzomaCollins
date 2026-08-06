@@ -1,16 +1,16 @@
-# Hi there, I'm <strong><font size="10">COLLINS UZOMA</font></strong> <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Robotics+Software+Engineer;Autonomous+Systems+Engineer;AI+%26+Robotics+Innovator"/>
+# Hi there, I'm <strong><font size="10">COLLINS UZOMA</font></strong>
 
-</div> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=35&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Robotics+Software+Engineer;Autonomous+Systems+Engineer;AI+%26+Robotics+Innovator"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🤖+Robotics+Software+Engineer;🚀+Autonomous+Systems+Engineer;🧠+AI+%26+Robotics+Innovator;🌍+Future+Robotics+Researcher" />
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=120&lines=🤖+Robotics+Software+Engineer;🚀+Autonomous+Systems+Engineer;🧠+AI+%26+Robotics+Innovator;🌍+Future+Robotics+Researcher"/>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
   <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&color=blue" />
   <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&color=yellow" />
 </p>
-
-</div>
 
 ---
 

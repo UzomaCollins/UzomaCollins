@@ -1,35 +1,21 @@
-<!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=40&duration=1&pause=9999&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hi+there%2C+I'm+COLLINS+UZOMA" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:001220,100:00C2FF&height=200&section=header&text=COLLINS%20UZOMA&fontSize=60&fontColor=ffffff&animation=fadeIn&desc=Robotics%20%7C%20Autonomous%20Systems%20%7C%20AI&descSize=22&descAlignY=65" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
 </p>
 
-<h2 align="center" style="color: #00C2FF; font-family: Poppins;">
-  🚀 Robotics Software Engineer &nbsp;|&nbsp; 🤖 Autonomous Systems &nbsp;|&nbsp; 🧠 AI Innovator
-</h2>
-
-<h3 align="center" style="color: #8899AA; font-weight: 400;">
-  Building intelligent machines that perceive, reason, and act in the real world
-</h3>
-
-<!-- DIVIDER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
+  <img src="https://img.shields.io/badge/🤖%20Robotics%20Engineer-00C2FF?style=for-the-badge&logo=robotframework&logoColor=white" />
+  <img src="https://img.shields.io/badge/🚀%20Autonomous%20Systems-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🧠%20AI%20Innovator-00C2FF?style=for-the-badge" />
 </p>
 
-<!-- BADGES -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=👀+Profile+Views&color=00C2FF&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=00C2FF&logoColor=white" />
-  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&logo=github&color=FFD700&logoColor=white" />
-</p>
-
-<!-- ANIMATED BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00C2FF&height=100&section=footer" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20Views&color=00C2FF&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/yourusername?style=for-the-badge&logo=github&color=00C2FF" />
+  <img src="https://img.shields.io/github/stars/yourusername?style=for-the-badge&logo=github&color=FFD700" />
 </p>
 ---
 

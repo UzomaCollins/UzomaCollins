@@ -3,14 +3,19 @@ work with this, the animations are too much. Make it look professional: # ✨�
 ## 🤖🚀 Robotics Software Engineer • 🧭 Autonomous Systems Architect • 🧠 AI Innovator • 🌍 Future Robotics Researcher
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ✨
+# 👋 Hi, I'm [Your Name]
 
-## 👨‍💻🎓 ABOUT ME 🌟
+### 🚀 Computer Engineering Graduate | Robotics · AI · Autonomous Systems
 
-😊👋 Hi there! I'm a **Computer Engineering Graduate** with an unstoppable passion for **🤖 Robotics, 🧠 Artificial Intelligence, and 🚀 Autonomous Systems**.
+---
 
-💡✨ I love designing and building intelligent machines that don't just automate tasks—they **👀 perceive, 🧠 reason, 📍 navigate, 🎯 decide, and 🤝 interact intelligently with the real world.**
+I'm a **Computer Engineering Graduate** with a deep passion for building intelligent machines that go beyond simple automation — systems that **perceive**, **reason**, **navigate**, **decide**, and **interact** with the world around them.
 
-🌍❤️ My dream is to contribute to the next generation of autonomous technologies that transform industries and improve lives across the globe.
+From perception pipelines to decision-making algorithms, I thrive at the intersection of hardware and software, turning complex problems into real-world autonomous solutions.
+
+🌍 My mission: to help shape the next generation of autonomous technologies that drive meaningful change across industries and improve lives globally.
+
+---
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ 🚀
 

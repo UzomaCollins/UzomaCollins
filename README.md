@@ -248,7 +248,6 @@ Every day, I strive to:
 ## 💻 **Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) **Advanced** 🐍  
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ⚙️  
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white) 🐧  
 
 ---
 
@@ -311,23 +310,23 @@ Every day, I strive to:
 
 # 🌟🎯 2026 BIG GOALS 🚀🏆
 
-✅ 🤖 Master Robotics Software Engineering
+🤖 Master Robotics Software Engineering
 
-✅ 🧭 Become a Professional Autonomous Systems Engineer
+🧭 Become a Professional Autonomous Systems Engineer
 
-✅ 🚀 Build & Deploy **30+ Production-Ready Robotics Projects**
+🚀 Build & Deploy **30+ Production-Ready Robotics Projects**
 
-✅ 👁️ Achieve Advanced ROS 2 & Computer Vision Expertise
+👁️ Achieve Advanced ROS 2 & Computer Vision Expertise
 
-✅ 🤝 Contribute Meaningfully to Open-Source Robotics
+🤝 Contribute Meaningfully to Open-Source Robotics
 
-✅ 📂 Build an Industry-Level Robotics Portfolio
+📂 Build an Industry-Level Robotics Portfolio
 
-✅ 🌍 Connect with Robotics Engineers Worldwide
+🌍 Connect with Robotics Engineers Worldwide
 
-✅ 🎤 Share my learning journey to inspire thousands of aspiring engineers
+🎤 Share my learning journey to inspire thousands of aspiring engineers
 
-✅ 💡 Keep learning, building, and improving every single day 💪🔥
+💡 Keep learning, building, and improving every single day 💪🔥
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -355,19 +354,22 @@ Together, let's build the future of intelligent machines! 🚀🤖🌍✨
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-## 📺🎬 Follow My Robotics Journey!
+## 📺🎬 Follow My Robotics Software & Autonomous Systems Engineering Journey!
 
-🎥 **YouTube:** **TechWithCollins1** 🚀
+🎥 **YouTube Channel:** Coming Soon 🚀
 
-Expect...
-✨ Robotics
-✨ AI
-✨ Autonomous Systems
-✨ Programming
-✨ Projects
-✨ Tutorials
-✨ Career Growth
-✨ Tech Motivation
+Get ready for exciting content on:
+
+🤖 Robotics
+🧠 Artificial Intelligence (AI)
+🚗 Autonomous Systems
+💻 Programming & Software Development
+🛠️ Hands-on Projects
+📚 Step-by-Step Tutorials
+📈 Career Growth & Tech Opportunities
+💡 Innovation, Productivity & Tech Motivation
+
+**Subscribe and join the journey as we build the future with AI & Robotics!** 🚀
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -376,18 +378,23 @@ Expect...
 > 🌟 *"Every line of code is another step toward engineering an autonomous future—where machines don't just function... they perceive, understand, learn, and make intelligent decisions."* 🤖🧠💫
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# ❤️ Thank You for Visiting! 🚀
 
-# ❤️😊 THANK YOU SO MUCH FOR VISITING! 🙏🌟
+I'm truly grateful you took the time to explore my profile. Your visit means a lot!
 
-🥹 Thanks for taking the time to read my profile!
+If you'd like to connect, collaborate, or simply talk about technology, I'd be delighted to hear from you.
 
-💌 Feel free to send me a message anytime.
+### 🌟 Let's:
 
-😊 Let's connect...
-🤝 Let's collaborate...
-🚀 Let's innovate...
-🌍 And together, let's shape the future of Robotics & Artificial Intelligence!
+🤝 Connect and grow together
+💡 Share ideas and knowledge
+🚀 Build innovative solutions
+🤖 Advance Robotics & Artificial Intelligence
+🌍 Create technology that makes a positive impact
 
-✨ Have an amazing day! 😄🌟🚀
+Thank you once again for stopping by. Wishing you success in your learning, career, and future endeavors.
+
+**Keep learning. Keep building. Keep innovating.** 🚀✨
+
 
 #🤖 #Robotics #AutonomousSystems #ArtificialIntelligence #AI #ROS2 #ComputerVision #MachineLearning #Python #SoftwareEngineering #Automation #Innovation #FutureTech #Engineering #OpenSource #RoboticsEngineer #AIEngineer #TechCommunity #BuildInPublic 🚀🌍💙

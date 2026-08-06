@@ -143,19 +143,23 @@ From **computer vision** and **robot perception** to **SLAM**, **motion planning
 </p>
 
 
-## 📚🔥 Current Mission 🚀
+## 🚀 Current Mission
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=80%" />
-</p>
+I'm currently following an **intensive 8-month Robotics & Autonomous Systems Engineering Roadmap**, focused on developing the technical expertise required to build intelligent, reliable, and scalable robotic systems.
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=2500&pause=1200&color=00C2FF&center=true&vCenter=true&width=900&height=60&lines=🎯+8-Month+Robotics+%26+Autonomous+Systems+Roadmap;💪+Building+World-Class+Robotics+Skills" />
-</p>
+### 🎯 My Daily Commitment
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=1&width=60%" />
-</p>
+Every day, I strive to:
+
+- 📚 Deepen my understanding of robotics, AI, and autonomous systems
+- 💻 Build practical, real-world robotics and software projects
+- 🚀 Document and share my learning journey publicly
+- 🤝 Contribute to the open-source and robotics communities
+- 📂 Continuously strengthen my GitHub portfolio
+- 🌱 Learn, improve, and grow through consistent practice
+- 💡 Inspire aspiring engineers by sharing knowledge and experiences
+
+> **"Consistency compounds. Every small improvement today brings me one step closer to becoming a world-class Robotics Software & Autonomous Systems Engineer."**
 
 ### 🎯 My Daily Commitments
 

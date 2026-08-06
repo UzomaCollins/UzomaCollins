@@ -72,14 +72,21 @@ From **computer vision** and **robot perception** to **SLAM**, **motion planning
 
 ## 🌍 My Mission
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=18&duration=1&pause=9999&color=00C2FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=%22To+build+intelligent+robots+and+autonomous+systems;that+solve+real-world+problems%2C+advance+humanity;and+shape+the+future+of+robotics%22" />
-</p>
+<table>
+  <tr>
+    <td>
+      <blockquote>
+        <b>To build intelligent robots and autonomous systems that solve real-world problems, advance humanity, and shape the future of robotics through innovation, research, and impactful technology.</b>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <i>— through innovation, research, and impactful technology</i>
+  <img src="https://img.shields.io/badge/🎯%20Mission-Driven-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🔬%20Research-Focused-00C2FF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍%20Impact-Oriented-00C2FF?style=for-the-badge" />
 </p>
-
 
 ## ⚡ What I'm Passionate About
 

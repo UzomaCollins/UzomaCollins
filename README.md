@@ -121,13 +121,26 @@ From **computer vision** and **robot perception** to **SLAM**, **motion planning
 
 
 
-<div align="center">
+<!-- QUOTE & ANIMATION BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=3&width=60%" />
+</p>
 
-### 💡 *"The future belongs to intelligent machines that can perceive, learn, reason, and act autonomously."*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=2000&pause=1500&color=00C2FF&center=true&vCenter=true&multiline=true&width=900&height=80&lines=%22The+future+belongs+to+intelligent+machines;that+can+perceive%2C+learn%2C+reason%2C+and+act+autonomously.%22" />
+</p>
 
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="500"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=2&width=40%" />
+</p>
 
-</div>
+<p align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=00C2FF&height=3&width=60%" />
+</p>
 
 ---
 

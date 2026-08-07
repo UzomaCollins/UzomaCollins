@@ -255,13 +255,49 @@ Every day, I strive to:
 
 ---
 
-## 🧠 **Artificial Intelligence**  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge) 🤖  
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-FF6F00?style=for-the-badge) 👁️  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) 📷  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 🔥  
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 📊  
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 🐼  
+Here's your expanded **Artificial Intelligence** section with more skills, better categorization, and a polished look:
+
+---
+
+## 🧠 **Artificial Intelligence & Data Science**
+
+### 🤖 Core AI / ML
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-F7931E?style=for-the-badge)  
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-FF6F00?style=for-the-badge)  
+![Reinforcement Learning](https://img.shields.io/badge/Reinforcement_Learning-8B0000?style=for-the-badge)  
+![Generative AI](https://img.shields.io/badge/Generative_AI-6A0DAD?style=for-the-badge)  
+![LLMs](https://img.shields.io/badge/Large_Language_Models-1E90FF?style=for-the-badge)  
+![NLP](https://img.shields.io/badge/NLP-00BFFF?style=for-the-badge)
+
+### 📷 Computer Vision
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge)  
+![MediaPipe](https://img.shields.io/badge/MediaPipe-FFC0CB?style=for-the-badge)  
+![Image Segmentation](https://img.shields.io/badge/Image_Segmentation-FF4500?style=for-the-badge)
+
+### 🧮 Frameworks & Libraries
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)  
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)  
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+
+### 📊 Data Handling & Visualization
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)  
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)  
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)  
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ☁️ MLOps & Deployment
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)  
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)  
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)  
+![AWS SageMaker](https://img.shields.io/badge/AWS_SageMaker-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 ---
 
